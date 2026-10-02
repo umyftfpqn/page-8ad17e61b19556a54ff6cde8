@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "205122e0b46cb45bd57c3edf",
+  "owner": "umyftfpqn",
+  "repo": "page-8ad17e61b19556a54ff6cde8",
+  "title": "大盘鸡(nanoPort)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8ad17e61b19556a54ff6cde8",
+      "a": "大盘鸡(nanoPort)",
+      "b": "",
+      "entity": "大盘鸡(nanoPort)",
+      "brand": "大盘鸡(nanoPort)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cf7fafb488e74ef3bfada5f0b37ea37349dca1d99e26fae36232facbb506d88c",
+      "content": {
+        "keyword1": "大盘鸡(nanoPort)",
+        "keyword2": "",
+        "primary_entity": "大盘鸡(nanoPort)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大盘鸡(nanoPort)提供稳定VPN梯子与机场订阅服务，支持多套餐选择、全平台客户端下载，覆盖流媒体解锁、游戏加速及团队协作网络需求，欢迎访问官网获取指引。",
+          "AI_DESCRIPTION": "大盘鸡(nanoPort)提供稳定VPN梯子与机场订阅服务，支持多套餐选择、全平台客户端下载，覆盖流媒体解锁、游戏加速及团队协作网络需求，欢迎访问官网获取指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0;}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background-color:#f3f4f6;color:#111827;line-height:1.65;font-size:16px;overflow-x:hidden;}a{color:#6d28d9;text-decoration:none;}header{background:#ffffff;border-bottom:3px solid #7c3aed;padding:10px 16px;}.nav{display:flex;flex-wrap:wrap;gap:10px;max-width:960px;margin:0 auto;}.nav a{font-size:14px;padding:4px 8px;}.wrap{max-width:960px;margin:0 auto;padding:20px 16px;}h1{font-size:28px;color:#4c1d95;margin-bottom:8px;line-height:1.3;}.lead{font-size:18px;color:#4b5563;margin-bottom:24px;}h2{font-size:22px;color:#5b21b6;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #e5e7eb;}h3{font-size:18px;color:#6d28d9;margin:16px 0 8px;}p,ul,ol{margin-bottom:12px;}ul,ol{padding-left:20px;}.grid{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0;}.card{flex:1 1 260px;background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;padding:16px;min-width:0;}.featured{border:2px solid #7c3aed;background:#f5f3ff;}.price{font-size:20px;font-weight:bold;color:#4c1d95;margin:8px 0;}.annual{font-size:14px;color:#6b7280;}.feat{font-size:14px;color:#374151;}details{background:#ffffff;border:1px solid #ddd6fe;border-radius:6px;margin-bottom:10px;padding:10px 14px;}summary{font-weight:600;color:#5b21b6;font-size:16px;}details p{margin-top:8px;font-size:15px;color:#374151;}.faq-box{background:#faf5ff;padding:16px;border-radius:8px;border:1px solid #ddd6fe;margin:20px 0;}footer{background:#ffffff;border-top:1px solid #e5e7eb;padding:20px 16px;margin-top:40px;font-size:14px;color:#4b5563;}.footer-grid{display:flex;flex-wrap:wrap;gap:24px;max-width:960px;margin:0 auto;}.ad{background:#f3e8ff;padding:12px;border-left:4px solid #7c3aed;margin:12px 0;}@media(max-width:640px){h1{font-size:24px;}h2{font-size:20px;}.nav{justify-content:center;}.card{flex:1 1 100%;}}</style><header><div class=\"nav\"><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐价格</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></div></header><main class=\"wrap\"><h1>大盘鸡(nanoPort)</h1><p class=\"lead\">官方网站提供 VPN 梯子网络加速、机场订阅与多端客户端下载服务，助力稳定跨境连接。</p><section id=\"intro\"><h2>品牌简介</h2><p>大盘鸡(nanoPort) 是专注网络加速的机场服务品牌。我们通过精选节点与优化线路，为用户提供可靠的梯子体验。无论您需要解锁国际流媒体、降低游戏延迟，还是保障远程办公连通性，大盘鸡(nanoPort) 都能以简洁的订阅方式和全平台客户端支持满足需求。作为官网，我们强调透明套餐、稳定节点与便捷下载指引，帮助您快速开始使用。</p><p>服务覆盖个人轻度用户到团队协作场景，流量按月计算，支持年付优惠。所有套餐均包含基础节点池，高等级套餐额外提供原生解锁与专线优化。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><div class=\"card\"><h3>流媒体观看</h3><p>解锁常见国际流媒体平台，旗舰版提供全节点原生支持，减少缓冲，适合追剧与直播。</p></div><div class=\"card\"><h3>游戏加速</h3><p>IPLC 专线优化游戏节点，降低丢包与延迟，适合需要稳定连接的在线对战与国际服。</p></div><div class=\"card\"><h3>远程办公与学习</h3><p>稳定访问海外协作工具、学术数据库和云服务，保障视频会议与文件传输。</p></div><div class=\"card\"><h3>日常浏览加速</h3><p>改善跨境网页加载速度，保护连接隐私，适合频繁访问国际资讯的用户。</p></div></div></section><section id=\"plans\"><h2>套餐价格（官网订阅）</h2><p>选择适合您的套餐，年付更优惠。所有价格为官网公示，支持按月或按年。</p><div class=\"grid\"><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"guide\"><h2>操作说明</h2><h3>订阅与连接步骤</h3><ol><li>在本官网选择套餐并完成订阅，获取专属订阅链接。</li><li>根据设备下载对应客户端（详见下方客户端下载指引）。</li><li>打开客户端，添加订阅或导入链接，更新节点。</li><li>选择延迟较低的节点，开启连接即可享受加速。</li><li>如遇问题，旗舰及以上用户可通过工单优先处理。</li></ol><p>请始终通过大盘鸡(nanoPort) 官网获取订阅与指引，以确保链接有效与安全。</p></section><section id=\"download\"><h2>客户端下载指引</h2><p>大盘鸡(nanoPort) 兼容主流代理客户端。以下为常见平台推荐，请从各客户端官方渠道下载安装后，导入本站订阅。本页不提供直接安装包，以避免安全风险，请认准官网说明。</p><h3>Windows</h3><p>推荐 Clash for Windows 或 v2rayN。导入订阅后选择规则模式，启用系统代理。</p><h3>macOS</h3><p>推荐 ClashX Pro 或 Surge。支持菜单栏快捷切换节点。</p><h3>iOS</h3><p>推荐 Shadowrocket 或 Stash。通过应用商店获取，添加订阅 URL。</p><h3>Android</h3><p>推荐 Clash Meta for Android 或 v2rayNG。注意授权 VPN 权限。</p><p>其他如 Linux 可使用 clash premium 或 sing-box。订阅格式通常为 Clash / V2Ray 通用。</p></section><section id=\"faq\"><h2>常见问题</h2><div class=\"faq-box\"><details><summary>大盘鸡(nanoPort) 是什么服务？</summary><p>大盘鸡(nanoPort) 是提供机场订阅与 VPN 梯子网络加速的服务。用户通过订阅获取节点列表，在客户端中使用即可实现网络加速、流媒体解锁和游戏优化。本站为官方网站，提供套餐说明与客户端使用指引。</p></details><details><summary>如何从官网获取客户端并开始使用？</summary><p>首先选择套餐完成订阅获得链接。然后根据设备在对应客户端渠道下载软件（Windows 用 Clash 或 v2rayN，iOS 用 Shadowrocket 等）。安装后粘贴订阅地址更新节点，选择节点连接。整个过程无需复杂配置，适合大多数用户。</p></details><details><summary>三个套餐分别适合什么用户？</summary><p>基础版适合流量需求不大、偶尔使用的个人，3台设备足够日常。旗舰版是大多数用户的首选，流量充足、解锁全面并带游戏加速和优先支持。团队版适合家庭或小团队共享，设备数多、带宽高，还有定制和专属服务。</p></details><details><summary>支持哪些流媒体和游戏加速？</summary><p>基础版覆盖常见平台基础解锁。旗舰版和团队版提供全节点原生解锁，兼容多数国际流媒体。游戏方面，旗舰起提供 IPLC 专线，针对热门游戏优化路由，减少延迟。具体可用性因节点而异，建议实测。</p></details><details><summary>设备数量超限或流量用尽怎么办？</summary><p>同时在线设备按套餐限制，超出可能导致部分设备断开。流量月度重置，用尽后需等待下周期或升级套餐。年付用户可享受折扣续费。建议根据实际使用选择合适档位，避免浪费。</p></details><details><summary>节点稳定性与售后如何保障？</summary><p>我们维护普通节点池与高等级专线。旗舰版享有 7x24 优先工单，团队版配备专属客户经理。遇到连接问题可提交工单描述设备与错误，我们会协助排查。请通过官网渠道联系，不轻信非官方信息。</p></details><details><summary>订阅链接安全吗？可以分享吗？</summary><p>订阅链接绑定您的账户流量，请勿公开分享，以免被滥用导致流量耗尽或安全风险。仅在您信任的设备上导入。官网不会主动索要额外信息，下载客户端时请核对来源。</p></details></div></section><p>大盘鸡(nanoPort) 致力于提供清晰、可用的加速服务。感谢您访问官网，如需开始请参考套餐与操作说明及客户端下载指引。</p><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-grid\"><div><h3 id=\"sitemap\">网站地图</h3><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div><h3>广告</h3><div class=\"ad\">大盘鸡(nanoPort) 官方提示：请通过本官网了解套餐与下载指引，使用正版客户端导入订阅，保障您的网络加速体验安全可靠。警惕非官方渠道。</div></div><div><h3>友情链接</h3><ul><li><a href=\"#\">Clash 使用说明</a></li><li><a href=\"#\">V2Ray 配置指南</a></li><li><a href=\"#\">Shadowrocket 入门</a></li><li><a href=\"#\">网络加速工具参考</a></li></ul></div></div><p>© 大盘鸡(nanoPort) 官方网站 · 本页提供机场订阅说明与客户端下载指引</p></footer>",
+          "hash": "7bf44ecd6e194eb4fd0f63f5627dc2fd6a8e1286c50ab5e4475565ef58f8c58d",
+          "seo": {
+            "title": "大盘鸡(nanoPort)官网 - VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "大盘鸡,nanoPort,大盘鸡机场,nanoPort VPN,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,流媒体解锁,游戏加速,官方网站",
+            "description": "大盘鸡(nanoPort)提供稳定VPN梯子与机场订阅服务，支持多套餐选择、全平台客户端下载，覆盖流媒体解锁、游戏加速及团队协作网络需求，欢迎访问官网获取指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fxhsn3.cn",
+    "host": "p-fa95758b5e.fxhsn3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fxhsn3.cn",
+      "url": "https://fxhsn3.cn/",
+      "label": "海豚湾(Dolphin)",
+      "apex": "fxhsn3.cn",
+      "kind": null,
+      "identity": "pusrrxun/page-75531e87e3db5dc2f63c0873"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bceede14c0de575219e70c7842171fd1e7e71ac7f1d2b860f5ea82fb2a389190",
+    "sitemap.xml": "5b68474476b34a74704b169da814d66e21fc30b19695313472723f5691df5cb9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "685028a0baf6262784a643ceec1f5cb629e818f07cf7397a19fa85222fde8e75",
+    "robots.txt": "1c1146512e811e857368e82431cec936a7a404f5ad385ec40549e16b9ba7077b",
+    "7f243dffa07cfe97eb25cecf6c192868.txt": "0fec5ba45efb15b9659a8178b21929e01570ad2fe9d42806cc15e028fb0955cf"
+  },
+  "revision": "3ef6bd932b235ec9ff1ec85800ab66bc45e89dee87bad0f69a16d073acedb612"
+}
